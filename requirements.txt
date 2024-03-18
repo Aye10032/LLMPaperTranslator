@@ -1,1 +1,2 @@
 PySide6-Fluent-Widgets~=1.5.3
+pyside6~=6.6.2
