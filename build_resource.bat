@@ -1,0 +1,1 @@
+pyside6-rcc .\res\resource.qrc -o .\common\resource.py
